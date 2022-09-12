@@ -1,0 +1,8 @@
+echo "-----------------------------------"
+echo "Tugas 1 SISOP Kelas-B"
+echo "-----------------------------------"
+echo "Nama      : M. Awaluddin ilham zuhri"
+echo "NPM       : 21083010112"
+echo "-----------------------------------"
+echo "notes:"
+echo -e "Halo Dunia!\nIni adalah skrip Bash pertamaku di Linux"
