@@ -12,7 +12,7 @@ do
 	printf "nilai semester %.1i:" $angka;
 	read nilaisemester;
 	IPSMahasiswa[$i]=$nilaisemester;
-	let jumlah=jumlah=$nilaisemester;
+	let jumlah=jumlah+$nilaisemester;
 	let i=$i+1
 
 done

@@ -1,4 +1,4 @@
- printf "Jajan apa yang kamu suka ?\n"
+printf "Jajan apa yang kamu suka ?\n"
 printf "pentol ?\n"
 printf "batagor ?\n"
 printf "cireng ?\n"
